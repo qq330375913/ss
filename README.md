@@ -9,17 +9,9 @@
 - 从肥羊那里**抄**来的：新用户注册现金奖励|高等级节点体验|设备数量限制
 - **优化**：css和js等置入本地提升加载速度
 - 增加**v2Ray** 功能，详情请看 [wiki](https://github.com/NimaQu/ss-panel-v3-mod_Uim/wiki/V2Ray-%E5%AF%B9%E6%8E%A5%E6%95%99%E7%A8%8B)
-
-telegram交流群：https://t.me/joinchat/GQehSEV7LEU1Z6E8aQ4z3w
-
-telegtam 频道 ：https://t.me/sspanel_Uim  管理模式参考91yun管理
-
-演示站: [demo.nimaqu.com](https://demo.nimaqu.com) 账号/密码:admin  mukey=NimaQu
+演示站: [su.qianmeng.net.cn](https://su.qianmeng.net.cn)
 
 **原作者** [galaxychuck](https://github.com/galaxychuck)
-
-[支持开发者请点我](https://github.com/NimaQu/ss-panel-v3-mod_UIM#%E5%85%B3%E4%BA%8E%E6%8D%90%E8%B5%A0)
-
 本面板在[宝塔面板5.6.0](www.bt.cn)，宝塔安装版 nginx1.12，php 7.1 ，mysql 5.7 上全部功能测试通过
 
 ## 搭建教程
